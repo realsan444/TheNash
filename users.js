@@ -21,7 +21,7 @@ const usersData = [
     user: "hudson",
     password: "hudst",
     display: "Hudson",
-    rank: "user"
+    rank: "vip"
   },
   {
     user: "augusto",
